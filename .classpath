@@ -21,5 +21,6 @@
 			<attribute name="javadoc_location" value="jar:platform:/resource/TPP-Libs/commons-io-2.4-bin.zip!/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="Filters/Filters.jar" sourcepath="Filters/Filters.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
